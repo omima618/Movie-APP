@@ -1,0 +1,14 @@
+@media (max-width: 575px) {
+    header {
+        display: block;
+    }
+    header .logo {
+        margin-bottom: 20px;
+    }
+    header form #search {
+        font-size: 1rem;
+    }
+    .genres{
+        width: 90%;
+    }
+}
